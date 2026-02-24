@@ -42,7 +42,7 @@ cmd({
 
 ⏳ *Downloading video, please wait...*
 
-> 📌 ᴘᴏᴡᴇʀ ʙʏ *ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ*
+> 📌 ᴘᴏᴡᴇʀ ʙʏ *𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃*
         `;
 
         await conn.sendMessage(from, {
@@ -71,7 +71,7 @@ cmd({
 
 ✅ *Download complete*
 
-> 📌 ᴘᴏᴡᴇʀ ʙʏ *ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ*
+> 📌 ᴘᴏᴡᴇʀ ʙʏ *𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃*
             `
         }, { quoted: mek });
 
