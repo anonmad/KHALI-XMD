@@ -55,8 +55,8 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363423571792427@newsletter',
-                        newsletterName: 'ᗩᗪᗴᗴᒪ-᙭ᗰᗪ',
+                        newsletterJid: '120363423019441144@newsletter',
+                        newsletterName: '𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -128,15 +128,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/qj4dc0.jpg` },
+                image: { url: `https://files.catbox.moe/78gezo.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363423571792427@newsletter',
-                        newsletterName: "ᗩᗪᗴᗴᒪ-᙭ᗰᗪ",
+                        newsletterJid: '120363423019441144@newsletter',
+                        newsletterName: "𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃",
                         serverMessageId: 143
                     }
                 }
@@ -194,15 +194,15 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/qj4dc0.jpg` },
+                image: { url: `https://files.catbox.moe/78gezo.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363423571792427@newsletter',
-                        newsletterName: 'ᗩᗪᗴᗴᒪ-᙭ᗰᗪ',
+                        newsletterJid: 'https://files.catbox.moe/78gezo.jpg@newsletter',
+                        newsletterName: '𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃',
                         serverMessageId: 144
                     }
                 }
