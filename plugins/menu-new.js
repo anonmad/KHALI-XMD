@@ -17,12 +17,12 @@ cmd({
         
         // Your existing menu caption
         const menuCaption = `╭━━ ⌜  *${config.BOT_NAME}* ⌟ ━━⊷❍
-┃ 👤 ʙᴏᴛ ᴏᴡɴᴇʀ: *𝐌ᴀғɪᴀ 𝐀ᴅᴇᴇʟ*
+┃ 👤 ʙᴏᴛ ᴏᴡɴᴇʀ: *𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃*
 ┃ 🌍 ᴍᴏᴅᴇ: *ᴘᴜʙʟɪᴄ*
 ┃ 🔤 ᴘʀᴇғɪx: [ . ]
 ╰━━━━━━━━━━━━━━━━━━━⊷❍
 ╭─「 *𝚘𝚠𝚗𝚎𝚛* 」
-│ *ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ*❤️‍🔥
+│ *𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰🐯*
 ╰───────────────⊷
 
 📜 *ᴄʜᴏɪᴄᴇ ᴄᴏᴍᴍᴀɴᴅ* 
@@ -230,7 +230,7 @@ cmd({
 │ .*𝚛𝚎𝚜𝚝𝚊𝚛𝚝*
 ╰───────────────⊷
 ╭─「 *KIᑎᘜ🔥* 」
-│ *ᗰᗩᖴIᗩ ᗩᗪᗴᗴᒪ❤️‍🔥*
+|  .*𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰🐯*
 ╰───────────────⊷
 > ${config.DESCRIPTION}`;
 
@@ -239,7 +239,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363423571792427@newsletter',
+                newsletterJid: '120363423019441144@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
@@ -251,7 +251,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/ejufwa.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/78gezo.jpg' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
@@ -596,7 +596,7 @@ cmd({
                                 await conn.sendMessage(
                                     senderID,
                                     {
-                                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/ejufwa.jpg' },
+                                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/78gezo.jpg' },
                                         caption: selectedMenu.content,
                                         contextInfo: contextInfo
                                     },
