@@ -15,7 +15,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
 
-    const githubRepoURL = 'https://github.com/ADEEL-XMD/ADEEL-AI-XD';
+    const githubRepoURL = 'https://github.com/Mselachui03/MSELA-CHUI-BOT';
 
     try {
         const match = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -46,19 +46,19 @@ cmd({
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
 > 🚀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 ⭐  
-> 💎 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐀𝐃𝐄𝐄𝐋 𝐗𝐌𝐃
+> 💎 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃
 `;
 
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/qj4dc0.jpg' },
+            image: { url: 'https://files.catbox.moe/78gezo.jpg' },
             caption,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363423571792427@newsletter',
-                    newsletterName: 'ᗩᗪᗴᗴᒪ-᙭ᗰᗪ',
+                    newsletterJid: '120363423019441144@newsletter',
+                    newsletterName: '𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃',
                     serverMessageId: 143
                 }
             }
@@ -78,7 +78,7 @@ cmd({
         console.error("REPO ERROR:", err);
         reply(`
 *╭ׂ┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣─̇─̣─᛭*
-*│ ╌─̇─̣⊰ ᗩᗪᗴᗴᒪ-᙭ᗰᗪ ⊱┈─̇─̣╌*
+*│ ╌─̇─̣⊰ 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃 ⊱┈─̇─̣╌*
 *│─̇─̣┄┄┄┄┄┄┄┄┄┄┄┄┄─̇─̣*
 *│❌ 𝐑𝐞𝐩𝐨 𝐅𝐞𝐭𝐜𝐡 𝐅𝐚𝐢𝐥𝐞𝐝*
 *│⏳ Try again later*
