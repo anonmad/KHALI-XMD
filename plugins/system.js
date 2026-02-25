@@ -45,10 +45,10 @@ async (conn, mek, m, { from, reply }) => {
 
         // Bot info
         const botInfo = {
-            name: config.BOT_NAME || "ADEELXMD",
+            name: config.BOT_NAME || "𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃",
             version: config.VERSION || "5.0.0",
-            creator: "ᗩᗪᗴᗴᒪ-᙭ᗰᗪ 👑",
-            contact: "+923174838990"
+            creator: "𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰 🐯",
+            contact: "+260769355624"
         };
 
         // Generate a beautiful system info message
@@ -71,7 +71,7 @@ async (conn, mek, m, { from, reply }) => {
 │
 ╰─────────────────────
 
-🔧 *Bot maintained by MafiaTech*`;
+🔧 *Bot maintained by mselachui-Tech*`;
 
         await reply(sysInfoMessage);
 
