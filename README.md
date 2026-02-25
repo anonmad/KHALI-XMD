@@ -49,3 +49,23 @@
 <a aria-label="CONTACT DEVELOPER" href="https://wa.me/260769355624?text=Hi!! Mselachui Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
+## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂HANNEL  
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029Vb6Thzr90x2zmqGF9G0J">  
+    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+  </a>  
+   src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+  </a>  
+</p>  
+<p align="center">📢 sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ <b>ᴄʜᴀɴɴᴇʟ</b> 
+  
+---  
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
+## ⚡𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒  
+- ✅ MEDIA DOWNLOAD 📺    
+- ✅ GROUP FEATURE 𓆩🐍    
+- ✅ AUTO REPLY 🍨    
+- ✅ AUTO RECORDING / HYPING    
+✨ MORE FEATURES ON THIS BOARD ✨
