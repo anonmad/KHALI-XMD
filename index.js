@@ -304,7 +304,7 @@ async function initializeSession() {
             
             let sessdata = config.SESSION_ID;
             
-            const prefixes = ['𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃~', 'BOSS-MD~', 'EMYOU~', 'BOT~'];
+            const prefixes = ['FAIZAN-MD~', 'BOSS-MD~', 'EMYOU~', 'BOT~'];
             for (const p of prefixes) {
                 if (sessdata.includes(p)) {
                     sessdata = sessdata.split(p)[1];
@@ -507,12 +507,12 @@ async function connectToWA() {
                 
                 // Welcome message
                 setTimeout(() => {
-                    let up = `*Hello there 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃⁸⁷³ User! 👋🏻*\n\n` +
+                    let up = `*Hello there FAIZAN-MD⁸⁷³ User! 👋🏻*\n\n` +
                             `> Simple, Straight Forward But Loaded With Features 🎊\n\n` +
                             `- *YOUR PREFIX:* = ${prefix}\n` +
                             `- *Commands:* ${commands.length}\n` +
                             `- *Anti-Delete:* ${config.ANTI_DELETE === 'true' ? '✅' : '❌'}\n\n` +
-                            `> 📌 ᴘᴏᴡᴇʀ ʙʏ 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃`;
+                            `> 📌 ᴘᴏᴡᴇʀ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ`;
                     
                     conn.sendMessage(conn.user.id, { 
                         image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/15z65y.jpg' }, 
@@ -599,7 +599,7 @@ async function connectToWA() {
                                              `│✇ *Location:* ${isGroup ? 'Group' : 'Private'}${groupInfo}\n` +
                                              `${mediaInfo}\n` +
                                              `╰───────────────────❏\n\n` +
-                                             `> *𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃 ANTI DELETE*`;
+                                             `> *ADEEL-XMD ANTI DELETE*`;
                             
                             await conn.sendMessage(targetJid, {
                                 text: alertText,
@@ -1051,7 +1051,7 @@ app.get("/", (req, res) => {
     res.send(`
         <html>
             <head>
-                <title>𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃</title>
+                <title>ADEEL-XMD</title>
                 <style>
                     body { font-family: Arial; text-align: center; padding: 50px; background: #f0f0f0; }
                     .card { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
@@ -1061,7 +1061,7 @@ app.get("/", (req, res) => {
             </head>
             <body>
                 <div class="card">
-                    <h1>🤖 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃</h1>
+                    <h1>🤖 ADEEL-XMD</h1>
                     <p>Status: <span class="status">✅ ONLINE</span></p>
                     <p>Commands: <strong>${commands.length}</strong></p>
                     <p>Anti-Delete: <strong>${config.ANTI_DELETE === 'true' ? '✅ ACTIVE' : '❌ INACTIVE'}</strong></p>
@@ -1132,7 +1132,7 @@ process.on('unhandledRejection', (reason, promise) => {
 });
 
 console.log("\n🚀 ==============================");
-console.log("🚀 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃 BOT STARTING...");
+console.log("🚀 ADEEL-MD BOT STARTING...");
 console.log("🚀 ==============================\n");
 
 // ==================== EXPORTS FOR PLUGINS ====================
