@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the session-id here,MSELACHUI-XMD~eyJub---",
       "required": true,
-      "value": ""
+      "value": "MSELACHUI-XMD~"
     },  
     
     "STICKER_NAME": {
