@@ -521,7 +521,7 @@ async function connectToWA() {
                     
                     // Send to owner as well
                     conn.sendMessage(ownerNumber[0] + '@s.whatsapp.net', {
-                        text: `✅ *ASEEL-XMD ACTIVATED*\n\nBot is now online!\nCommands: ${commands.length}\nPrefix: ${prefix}\nAnti-Delete: ${config.ANTI_DELETE === 'true' ? '✅ ACTIVE' : '❌ INACTIVE'}`
+                        text: `✅ *𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃 ACTIVATED*\n\nBot is now online!\nCommands: ${commands.length}\nPrefix: ${prefix}\nAnti-Delete: ${config.ANTI_DELETE === 'true' ? '✅ ACTIVE' : '❌ INACTIVE'}`
                     }).catch(() => {});
                 }, 5000);
             }
