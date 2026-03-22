@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here,MSELACHUI-MD~eyJub---",
       "required": true,
-      "value": "MSELACHUI-MD~"
+      "value": ""
     },  
     
     "STICKER_NAME": {
