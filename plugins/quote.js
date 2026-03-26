@@ -35,7 +35,7 @@ async (conn, mek, m, { from, reply, text }) => {
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `🖋️ *Quote Generated*\n\n"${text}"\n\n© POWERED BY ${config.BOT_NAME || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃'}`
+            caption: `🖋️ *Quote Generated*\n\n"${text}"\n\n© POWERED BY ${config.BOT_NAME || '𝐊𝐀𝐋𝐈-𝐌𝐃𝟏'}`
         }, { quoted: mek });
 
     } catch (error) {
