@@ -15,7 +15,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
 
-    const githubRepoURL = 'https://github.com/Mselachui03/MSELA-CHUI-BOT';
+    const githubRepoURL = 'https://github.com/anonmad/khali-xmd';
 
     try {
         const match = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -46,7 +46,7 @@ cmd({
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 
 > 🚀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 ⭐  
-> 💎 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃
+> 💎 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐊𝐀𝐋𝐈-𝐌𝐃𝟏
 `;
 
         await conn.sendMessage(from, {
@@ -58,7 +58,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363423019441144@newsletter',
-                    newsletterName: '𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃',
+                    newsletterName: '𝐊𝐀𝐋𝐈-𝐌𝐃𝟏',
                     serverMessageId: 143
                 }
             }
@@ -78,7 +78,7 @@ cmd({
         console.error("REPO ERROR:", err);
         reply(`
 *╭ׂ┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣─̇─̣─᛭*
-*│ ╌─̇─̣⊰ 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃 ⊱┈─̇─̣╌*
+*│ ╌─̇─̣⊰ 𝐊𝐀𝐋𝐈-𝐌𝐃𝟏 ⊱┈─̇─̣╌*
 *│─̇─̣┄┄┄┄┄┄┄┄┄┄┄┄┄─̇─̣*
 *│❌ 𝐑𝐞𝐩𝐨 𝐅𝐞𝐭𝐜𝐡 𝐅𝐚𝐢𝐥𝐞𝐝*
 *│⏳ Try again later*
