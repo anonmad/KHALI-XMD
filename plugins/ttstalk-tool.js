@@ -31,7 +31,7 @@ Example:
 
         const caption = `
 *╭ׂ┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣─᛭*
-*│ ╌─̇─̣⊰ _𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃_ ⊱┈─̇─̣╌*
+*│ ╌─̇─̣⊰ _𝐊𝐀𝐋𝐈-𝐌𝐃𝟏_ ⊱┈─̇─̣╌*
 *│─̇─̣┄┄┄┄┄┄┄┄┄┄┄┄┄─̇─̣*
 *│❀ 👤 Username:* @${user.uniqueId}
 *│❀ 📛 Nickname:* ${user.nickname}
@@ -50,7 +50,7 @@ Example:
 *│❀ 🔗 Profile:* https://www.tiktok.com/@${user.uniqueId}
 *╰┄─̣┄─̇─̣┄─̇─̣┄─̇─̣┄─̇─̣─᛭*
 
-> 𝚳𝐒𝚵𝐋𝚫-𝐂𝚮𝐔𝚰-𝚾𝚳𝐃
+> 𝐊𝐀𝐋𝐈-𝐌𝐃𝟏
 `;
 
         await conn.sendMessage(
