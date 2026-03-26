@@ -42,7 +42,7 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "ᗩᗪᗴᗴᒪ-᙭ᗰᗪ 🥀",
+            title: config.BOT_NAME || "𝐊𝐀𝐋𝐈-𝐌𝐃𝟏 🥀",
             body: config.DESCRIPTION || "MOST POPULAR",
             mediaType: 1,
             renderLargerThumbnail: true,
